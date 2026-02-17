@@ -1,5 +1,6 @@
-2026/02/17-13:09:58.960 40e0 Log #3: 2 ops saved to Table #4 OK
-2026/02/17-13:09:58.963 40e0 Archiving C:\Users\llink\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/02/17-13:09:58.963 40e0 Table #4: 2 entries OK
-2026/02/17-13:09:58.966 40e0 Archiving C:\Users\llink\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/02/17-13:09:58.980 40e0 **** Repaired leveldb C:\Users\llink\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
+2026/02/17-14:23:10.213 29ec Log #6: 1 ops saved to Table #7 OK
+2026/02/17-14:23:10.217 29ec Archiving C:\Users\ASUS\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
+2026/02/17-14:23:10.217 29ec Table #4: 2 entries OK
+2026/02/17-14:23:10.217 29ec Table #7: 1 entries OK
+2026/02/17-14:23:10.223 29ec Archiving C:\Users\ASUS\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/02/17-14:23:10.232 29ec **** Repaired leveldb C:\Users\ASUS\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 341 bytes. Some data may have been lost. ****
