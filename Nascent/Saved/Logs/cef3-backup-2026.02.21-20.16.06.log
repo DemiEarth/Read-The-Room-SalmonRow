@@ -1,0 +1,20 @@
+[6908:14500:0219/211524.132:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6908:14500:0219/211524.348:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[6908:6660:0219/211524.550:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[6908:14500:0219/211524.767:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6908:6660:0219/211533.249:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\llink\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\llink\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6908:6660:0219/211533.263:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\llink\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\llink\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6908:6660:0219/211533.270:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\llink\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\llink\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6908:6660:0219/211533.275:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\llink\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\llink\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6908:5564:0219/211534.340:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6908:5564:0219/211534.367:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20652:17396:0219/211534.660:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-752345A82BD9D835620FC1F0539C2CCC will be ignored
+[14568:9628:0219/211534.714:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[14568:9628:0219/211534.795:ERROR:backend_impl.cc(989)] Critical error found -8
+[14568:9628:0219/211534.795:WARNING:storage_block-inl.h(138)] Failed data load.
+[14568:9628:0219/211534.795:WARNING:storage_block-inl.h(138)] Failed data load.
+[14568:9628:0219/211534.795:ERROR:entry_impl.cc(1029)] No file for c1030000
+[14568:9628:0219/211534.795:WARNING:storage_block-inl.h(138)] Failed data load.
+[14568:9628:0219/211534.892:ERROR:entry_impl.cc(955)] Failed to save user data
+[6908:15444:0219/211536.241:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\llink\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\llink\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6908:14500:0219/215119.858:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
