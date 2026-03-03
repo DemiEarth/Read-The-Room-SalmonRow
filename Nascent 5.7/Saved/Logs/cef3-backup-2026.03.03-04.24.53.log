@@ -1,0 +1,49 @@
+[27448:23572:0302/213954.707:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[27448:42804:0302/213954.871:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[27448:23572:0302/213954.945:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[27448:31992:0302/213958.144:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emanu\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\emanu\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[27448:31992:0302/213958.148:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emanu\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\emanu\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[27448:31992:0302/213958.152:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emanu\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\emanu\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[27448:31992:0302/213958.156:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emanu\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\emanu\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[27448:31992:0302/213959.495:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[27448:31992:0302/213959.496:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[35512:38716:0302/214000.492:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A7E291735299764554F109647B583C1C will be ignored
+[27448:6688:0302/214000.986:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\emanu\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\emanu\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[34484:33580:0302/214030.490:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-DCF94C08544D93EAAFA299BD11514426 will be ignored
+[27448:23572:0302/214500.512:ERROR:menu_runner_views_aura.cc(24)] Window handle is required for default OSR context menu.
+[27448:23572:0302/214500.512:ERROR:menu_manager.cc(198)] Default context menu implementation is not available; canceling the menu
+[21960:6864:0302/214700.348:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame A-A87920E862754AD117A4680F69A52C2D will be ignored
+[32096:30844:0302/215107.962:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame D-D2CE73192F7BC3384E44FDAC88C8909A will be ignored
+[22504:40920:0302/215405.769:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[22504:24548:0302/215405.977:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[22504:40920:0302/215406.341:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[22504:18356:0302/215406.556:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+
+[22504:36072:0302/215406.806:ERROR:gl_utils.cc(415)] [.WebGL-00002FA003247100] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[22504:36072:0302/215406.806:ERROR:gl_utils.cc(415)] [.WebGL-00002FA003247100] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[22504:36072:0302/215406.807:ERROR:gl_utils.cc(415)] [.WebGL-00002FA003247100] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[22504:36072:0302/215406.853:ERROR:gl_utils.cc(415)] [.WebGL-00002FA003247100] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[22504:36072:0302/215406.853:ERROR:gl_utils.cc(415)] [.WebGL-00002FA003247100] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[22504:36072:0302/215406.853:ERROR:gl_utils.cc(415)] [.WebGL-00002FA003247100] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[36472:34356:0302/215719.774:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame F-053B6A05C22254DAA270CE29C90C5172 will be ignored
+[22504:40920:0302/215835.843:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+
+[22504:20960:0302/220029.926:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+
+[18864:22880:0302/220249.913:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 11-92E41C0CCFB91C22CFE7DC188CD7C11D will be ignored
+[34596:13632:0302/221129.792:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 13-C6E0C2661ACE33BF4B298AFBEA0EB473 will be ignored
+[27448:23572:0302/223817.330:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
