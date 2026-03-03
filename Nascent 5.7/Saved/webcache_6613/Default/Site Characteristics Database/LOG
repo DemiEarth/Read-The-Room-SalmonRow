@@ -1,3 +1,9 @@
-2026/03/02-13:47:59.026 4c34 Reusing MANIFEST C:\Users\llink\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/03/02-13:47:59.056 4c34 Recovering log #22
-2026/03/02-13:47:59.057 4c34 Reusing old log C:\Users\llink\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000022.log 
+2026/03/02-19:36:31.122 53d8 Reusing MANIFEST C:\Users\ASUS\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/03/02-19:36:31.123 6e2c Compacting 4@0 + 0@1 files
+2026/03/02-19:36:31.129 6e2c Generated table #26@0: 2 keys, 191 bytes
+2026/03/02-19:36:31.129 6e2c Compacted 4@0 + 0@1 files => 191 bytes
+2026/03/02-19:36:31.133 6e2c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/03/02-19:36:31.134 6e2c Delete type=2 #16
+2026/03/02-19:36:31.134 6e2c Delete type=2 #17
+2026/03/02-19:36:31.134 6e2c Delete type=2 #20
+2026/03/02-19:36:31.134 6e2c Delete type=2 #23
