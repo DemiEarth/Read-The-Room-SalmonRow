@@ -1,7 +1,3 @@
-2026/03/03-00:12:41.420 7e38 Log #29: 10 ops saved to Table #30 OK
-2026/03/03-00:12:41.423 7e38 Archiving C:\Users\Leonv\Desktop\GameScripts\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000029.log: OK
-2026/03/03-00:12:41.438 7e38 Table #26: 2 entries OK
-2026/03/03-00:12:41.447 7e38 Table #27: 1 entries OK
-2026/03/03-00:12:41.447 7e38 Table #30: 10 entries OK
-2026/03/03-00:12:41.460 7e38 Archiving C:\Users\Leonv\Desktop\GameScripts\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/03/03-00:12:41.468 7e38 **** Repaired leveldb C:\Users\Leonv\Desktop\GameScripts\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\Site Characteristics Database; recovered 3 files; 729 bytes. Some data may have been lost. ****
+2026/03/03-04:35:08.822 33f4 Reusing MANIFEST C:\Users\llink\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/03/03-04:35:08.824 33f4 Recovering log #32
+2026/03/03-04:35:08.825 33f4 Reusing old log C:\Users\llink\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000032.log 
