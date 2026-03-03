@@ -1,8 +1,1 @@
-2026/03/02-19:36:31.097 53d8 Log #22: 3 ops saved to Table #23 OK
-2026/03/02-19:36:31.098 53d8 Archiving C:\Users\ASUS\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000022.log: OK
-2026/03/02-19:36:31.099 53d8 Table #16: 2 entries OK
-2026/03/02-19:36:31.099 53d8 Table #17: 1 entries OK
-2026/03/02-19:36:31.099 53d8 Table #20: 2 entries OK
-2026/03/02-19:36:31.099 53d8 Table #23: 3 entries OK
-2026/03/02-19:36:31.102 53d8 Archiving C:\Users\ASUS\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/03/02-19:36:31.109 53d8 **** Repaired leveldb C:\Users\ASUS\OneDrive\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\Site Characteristics Database; recovered 4 files; 735 bytes. Some data may have been lost. ****
+2026/03/02-21:02:34.994 3ef0 Reusing MANIFEST C:\Users\emanu\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
