@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ta063797/Documents/GitHub/Read-The-Room-SalmonRow/Nascent 5.7/Content/VRTemplate/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/ta063797/Documents/GitHub/Read-The-Room-SalmonRow/Nascent 5.7/Content/LevelStreamingTest1.umap",
+				"C:/Users/ta063797/Documents/GitHub/Read-The-Room-SalmonRow/Nascent 5.7/Content/XRFramework/Blueprints/BP_XRGameMode.uasset",
 				"D:/UE_5.7/Engine/Plugins/Interchange/Assets/Content/Materials/PBRSurfaceMaterial_MR.uasset",
 				"C:/Users/ASUS/OneDrive/Documents/GitHub/Read-The-Room-SalmonRow/Nascent 5.7/Content/TaylorProps/DoorMat.uasset",
 				"C:/Users/ASUS/OneDrive/Documents/GitHub/Read-The-Room-SalmonRow/Nascent 5.7/Content/LevelStreamingTest1.umap",
