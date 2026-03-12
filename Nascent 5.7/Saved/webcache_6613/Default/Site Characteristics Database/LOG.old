@@ -1,3 +1,6 @@
-2026/03/10-09:45:45.444 35f4 Reusing MANIFEST C:\Users\ta063797\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/03/10-09:45:45.445 35f4 Recovering log #35
-2026/03/10-09:45:45.445 35f4 Reusing old log C:\Users\ta063797\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000035.log 
+2026/03/12-08:26:12.877 23a0 Log #35: 6 ops saved to Table #37 OK
+2026/03/12-08:26:12.879 23a0 Archiving C:\Users\ta063797\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000035.log: OK
+2026/03/12-08:26:12.889 23a0 Table #36: 3 entries OK
+2026/03/12-08:26:12.889 23a0 Table #37: 6 entries OK
+2026/03/12-08:26:12.904 23a0 Archiving C:\Users\ta063797\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/03/12-08:26:12.915 23a0 **** Repaired leveldb C:\Users\ta063797\Documents\GitHub\Read-The-Room-SalmonRow\Nascent 5.7\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 478 bytes. Some data may have been lost. ****
